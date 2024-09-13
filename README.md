@@ -6,3 +6,25 @@ Accordion Sections: Expand and collapse sections to reveal more information.
 Toggle Functionality: Click on the section title to toggle the content display.
 Responsive Design: Fully responsive UI for mobile and desktop.
 
+
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/accordion-app.git
+cd accordion-app
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+The app will be available at http://localhost:3000.
+
